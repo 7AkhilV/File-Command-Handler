@@ -1,0 +1,4 @@
+create a file new.txt
+rename the file new.txt to renamed_file.txt
+add to the file renamed_file.txt this content: hi
+delete the file renamed_file.txt
